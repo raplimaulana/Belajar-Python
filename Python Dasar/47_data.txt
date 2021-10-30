@@ -1,0 +1,4 @@
+Ini adalah teks yang dibuat menggunakan python
+ini baris kedua
+ini baris ketiga
+ini baris keempatbaris baru pake mode append
